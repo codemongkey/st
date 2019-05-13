@@ -1,0 +1,22 @@
+{
+    "window_size":{
+        "width":1280,
+        "height":720
+    },
+    "stream_server_info":{
+        "input_addr":"10.11.197.234",
+        "input_port":1935,
+        "output_addr":"10.11.197.234",
+        "output_port":1935
+    },
+    "devices": [{
+        "id": 1,
+        "play_url": "rtsp://admin:admin123@10.5.4.171",
+	"push":1,
+	"play_flag":1,
+    "time_limit":3660,
+	"use_gpu":0
+    }
+	
+    ]
+}

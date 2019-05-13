@@ -1,0 +1,1 @@
+ffmpeg -i "rtsp://admin:admin123@10.5.4.179" -vcodec copy -acodec copy -f flv "rtmp://localhost:1935/live/rome"
